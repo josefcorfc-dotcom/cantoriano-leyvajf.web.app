@@ -1,0 +1,6 @@
+{
+  "name": "Neurobin Aleph",
+  "description": "Sovereign Control Plane & Python GenAI Patch Telemetry for Nodo MX-SQ-3000",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
